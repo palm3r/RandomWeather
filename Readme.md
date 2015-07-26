@@ -5,6 +5,10 @@ This plugin provides highly configurable random weather to [rFactor2](http://rfa
 * The amount of clouds and rain, wind speed, air temperature will continuously change throughout all sessions.
 * You can configure weather settings in [INI file](RandomWeather.ini).
 
+## Requirements
+
+* [Visual C++ Redistributable for Visual Studio 2015](http://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
 ## Download
 
 * [v0.1](http://www.mediafire.com/download/znzj0uj3ubc02ax/RandomWeather_v0.1.zip)
