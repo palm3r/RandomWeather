@@ -111,7 +111,7 @@
 copy /v /y "$(TargetPath)" "$(SolutionDir)Build\Bin32\Plugins"
 mkdir "$(SolutionDir)Build\Plugins\RandomWeather"
 copy /v /y "$(SolutionDir)RandomWeather.ini" "$(SolutionDir)Build\Plugins\RandomWeather"
-copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
+copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\RandomWeather.txt"
 </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
@@ -133,7 +133,7 @@ copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
 copy /v /y "$(TargetPath)" "$(SolutionDir)Build\Bin64\Plugins"
 mkdir "$(SolutionDir)Build\Plugins\RandomWeather"
 copy /v /y "$(SolutionDir)RandomWeather.ini" "$(SolutionDir)Build\Plugins\RandomWeather"
-copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
+copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\RandomWeather.txt"
 </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
@@ -159,7 +159,7 @@ copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
 copy /v /y "$(TargetPath)" "$(SolutionDir)Build\Bin32\Plugins"
 mkdir "$(SolutionDir)Build\Plugins\RandomWeather"
 copy /v /y "$(SolutionDir)RandomWeather.ini" "$(SolutionDir)Build\Plugins\RandomWeather"
-copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
+copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\RandomWeather.txt"
 </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
@@ -185,7 +185,7 @@ copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
 copy /v /y "$(TargetPath)" "$(SolutionDir)Build\Bin64\Plugins"
 mkdir "$(SolutionDir)Build\Plugins\RandomWeather"
 copy /v /y "$(SolutionDir)RandomWeather.ini" "$(SolutionDir)Build\Plugins\RandomWeather"
-copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\Readme.txt"
+copy /v /y "$(SolutionDir)Readme.md" "$(SolutionDir)Build\RandomWeather.txt"
 </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
