@@ -7,7 +7,11 @@ This plugin provides highly configurable random weather to [rFactor2](http://rfa
 * The amount of clouds and rain, wind speed, air temperature will continuously change throughout all sessions.
 * You can configure weather settings in [INI file](RandomWeather.ini).
 
-# Install
+## Download
+
+* [v0.1](http://www.mediafire.com/download/4aj205gp72uaylq/RandomWeather_v0.1_20150726.zip)
+
+## Install
 
 Extract zip contents into rFactor2 folder like follows.
 
