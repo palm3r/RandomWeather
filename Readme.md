@@ -1,7 +1,5 @@
 # RandomWeather Plugin
 
-Current version: 0.1
-
 This plugin provides highly configurable random weather to [rFactor2](http://rfactor.net/web/rf2/).
 
 * The amount of clouds and rain, wind speed, air temperature will continuously change throughout all sessions.
@@ -9,7 +7,7 @@ This plugin provides highly configurable random weather to [rFactor2](http://rfa
 
 ## Download
 
-* [v0.1](http://www.mediafire.com/download/4aj205gp72uaylq/RandomWeather_v0.1_20150726.zip)
+* [v0.1](http://www.mediafire.com/download/znzj0uj3ubc02ax/RandomWeather_v0.1.zip)
 
 ## Install
 
